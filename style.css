@@ -1,0 +1,13 @@
+.place {
+    width: 200px;
+    height: 200px;
+    border: 4px solid gray;
+    background-color: whitesmoke;
+}
+
+.move-list {
+    width: 200px;
+    padding-top: 10px;
+    border: 4px solid gray;
+    background-color: whitesmoke;
+}
