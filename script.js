@@ -42,6 +42,7 @@ function handleTouchMove(evt) {
             list.innerHTML += add("up");
         } else { 
             list.innerHTML += `<li class="item">down</li>`;
+            
         }                                                                 
     }
     /* reset values */
